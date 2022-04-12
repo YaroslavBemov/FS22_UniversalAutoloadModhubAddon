@@ -12,3 +12,4 @@ function UniversalAutoloadModhubAddonManager:loadMap(name)
 		print("FS22_UniversalAutoload is required for FS22_UniversalAutoloadModhubAddon")
 	end
 end
+
